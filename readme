@@ -1,0 +1,19 @@
+//Assignment 01.
+
+
+This assignment is based on PHP+html+css.
+but we can devlope it with jquery+ajex which can help to fetching data from database and display very efficiently.
+
+list of files.--->
+
+1. index.php  (Homepage)
+2. page.php    (insert data into database)
+3. style.css    (styling elements)
+
+Database name : Assignment
+Table_namae   : review_list
+
+
+
+
+
